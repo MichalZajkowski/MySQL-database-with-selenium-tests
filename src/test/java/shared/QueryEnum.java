@@ -15,7 +15,7 @@ public enum QueryEnum {
     OR(" OR "),
     INTO(" INTO "),
     SET(" SET "),
-    VALUES (" VALUES  ");
+    VALUES(" VALUES  ");
 
     private String query;
 
